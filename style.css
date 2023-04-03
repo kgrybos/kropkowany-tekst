@@ -1,0 +1,10 @@
+canvas {
+  display: block;
+  margin: 0 auto;
+}
+
+input {
+  display: block;
+  margin: 10 auto;
+  width: 1000px;
+}
